@@ -1,0 +1,21 @@
+Skapa kommentar Json-kropp , Create Comment
+
+{
+    "PostId": 1,
+    "Content": "Detta är en kommentar."
+}
+
+
+Skapa/updatera konto Json-Kropp , Create/Update Account
+{
+    "username": "NAM6665",
+    "passwordHash": "Password99!!!",
+    "email": "nam.le@gmail.com"
+}
+
+Json kropp Blogginlägg , Create/ update Blogpost
+{
+    "title": "Min Första Bloggpost",
+    "content": "Detta är innehållet i min första bloggpost. Här kan jag skriva om vad jag vill!",
+    "categoryId": 2
+}
